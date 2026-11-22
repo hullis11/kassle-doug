@@ -20,7 +20,7 @@ Parameters:
   Cust:
     Type: String
     AllowedPattern: '^[a-z0-9-]+$'
-    Default: owen
+    Default: luke
 
   App:
     Type: String
@@ -50,7 +50,7 @@ Parameters:
   # github repo, edit for each customer
   RepoName:
     Type: String
-    Default: hullis11/kassle-owen
+    Default: hullis11/kassle-luke
 
   BranchName:
     Type: String
