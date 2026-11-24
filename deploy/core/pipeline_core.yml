@@ -11,7 +11,7 @@ Parameters:
   Cust:
     Type: String
     AllowedPattern: '^[a-z0-9-]+$'
-    Default: luke
+    Default: doug
 
   App:
     Type: String
@@ -29,7 +29,7 @@ Parameters:
   # github repo, edit for each customer
   RepoName:
     Type: String
-    Default: hullis11/kassle-luke
+    Default: hullis11/kassle-doug
 
   BranchName:
     Type: String
